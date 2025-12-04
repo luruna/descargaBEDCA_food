@@ -1,0 +1,82 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+*.sock
+*.sqlite3
+*.db
+*.sqlite
+
+# Editor temp files
+*~
+.#*
+*.swp
+
+# Python packaging
+*.egg
+*.whl
+
+# C extensions
+*.so
+*.dylib
+*.dll
+
+# Cache / tooling
+.mypy_cache/
+.cache/
+.tox/
+.venv/
+
+# Sensitive / local config
+.env
+.env.local
+secrets.yml
+*.pem
+*.key
+
+# Notebooks checkpoints
+.ipynb_checkpoints
+
+# Data / downloaded files
+data/
+downloads/
+output/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# Project-specific
+nutritional-info.csv
