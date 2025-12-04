@@ -58,9 +58,3 @@ El motor crea el fichero de salida `nutritional-info.csv` (nombre definido en `c
 
 **Licencia y uso**
 Uso y distribución para fines educativos y de investigación. Ajusta el comportamiento del bot y la identificación (`USER_AGENT`) según el uso que vayas a dar.
-
----
-
-Si quieres, puedo:
-- Crear un commit con estos archivos (`requirements.txt`, `README.md`).
-- Ejecutar `python main.py` en tu entorno (necesito confirmación porque la ejecución hace peticiones externas).
